@@ -1,4 +1,4 @@
-// Free to use however you want
+
 
 // We make the output pin a variable so that we can easily change its value
 const int OutputPin = A0;
